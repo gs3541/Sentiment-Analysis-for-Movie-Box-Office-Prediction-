@@ -4,12 +4,11 @@ Final Project Part II Readme
 
 Class: Predictive Analytics - Summer 2022
 
-Team#: 5
 Team Members:
 (Name, netID, NYU ID)
+Gurmehr Sohi, gs3541, N15515110
 Caglar Dogan, cd2647, N18970424
 Ekantika Singh, eas9980, N13606584
-Gurmehr Sohi, gs3541, N15515110
 
 ----- ----- Code Files ----- -----
 
